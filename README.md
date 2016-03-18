@@ -1,1 +1,1 @@
-Exemplo de Git
+Exemplo de um Git
